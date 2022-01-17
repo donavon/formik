@@ -46,7 +46,7 @@
     "hoist-non-react-statics": "^2.5.5",
     "lodash": "^4.17.11",
     "lodash-es": "^4.17.11",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.8.0",
     "react-fast-compare": "^2.0.1",
     "tiny-warning": "^1.0.2",
     "tslib": "^1.9.3"
