@@ -41,7 +41,7 @@
     "size": "size-limit"
   },
   "dependencies": {
-    "create-react-context": "^0.2.2",
+    "create-react-context": "^0.3.0",
     "deepmerge": "^2.1.1",
     "hoist-non-react-statics": "^2.5.5",
     "lodash": "^4.17.11",
