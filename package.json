@@ -41,12 +41,12 @@
     "size": "size-limit"
   },
   "dependencies": {
-    "create-react-context": "^0.2.2",
+    "create-react-context": "^0.3.0",
     "deepmerge": "^2.1.1",
     "hoist-non-react-statics": "^2.5.5",
     "lodash": "^4.17.11",
     "lodash-es": "^4.17.11",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.6.2",
     "react-fast-compare": "^2.0.1",
     "tiny-warning": "^1.0.2",
     "tslib": "^1.9.3"
